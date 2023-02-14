@@ -1,0 +1,22 @@
+.row div {
+    margin: 0.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-sm {
+    background-color: #8a9fd5;
+}
+
+.col-md {
+    background-color: #b099c3;
+}
+
+.col-lg {
+    background-color: #ce95b2;
+}
+
+.col-xl {
+    background-color: #de8896;
+}
